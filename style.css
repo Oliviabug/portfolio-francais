@@ -28,6 +28,12 @@ header {
    text-align: center;
  }
 
+.title h1 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  font-family: sans-serif;
+}
+
 
 /* '>' is a way to only target the list which is a direct child of 'nav' */
 nav > ul {
@@ -90,12 +96,6 @@ p {
 }
 
 .article p {
-  font-family: sans-serif;
-}
-
- h1 {
-  margin-bottom: 2rem;
-  margin-top: 2rem;
   font-family: sans-serif;
 }
 
