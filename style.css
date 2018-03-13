@@ -31,6 +31,7 @@ header {
 .title h1 {
   margin-bottom: 1rem;
   margin-top: 1rem;
+  font-family: sans-serif;
 }
 
 
@@ -95,12 +96,6 @@ p {
 }
 
 .article p {
-  font-family: sans-serif;
-}
-
- h1 {
-  margin-bottom: 2rem;
-  margin-top: 2rem;
   font-family: sans-serif;
 }
 
