@@ -197,3 +197,47 @@ footer p {
   margin-top: 2rem;
   color: black;
 }
+
+@media (max-width: 1000px) {
+
+  .text {
+    width: 70vw;
+    font-size: 1.3rem;
+  }
+
+  .resume img {
+    width: 90vw;
+  }
+
+  .vis1 img {
+    width: 65%;
+  }
+
+  .vis2 img {
+    width: 65%;
+  }
+
+  .vis3 img {
+    width: 65%;
+  }
+
+  .vis1 {
+    font-size: 2rem;
+  }
+
+  .vis2 {
+    font-size: 2rem;
+  }
+
+  .vis3 {
+    font-size: 2rem;
+  }
+
+  .article {
+    font-size: 2rem;
+  }
+
+  .article a {
+    font-size: 1.8rem;
+  }
+}
