@@ -105,7 +105,6 @@ p {
   color: black;
   text-align: center;
   font-size: 1rem;
-  border:
 }
 
 .le_petit_journal a:hover {
@@ -138,6 +137,10 @@ p {
 .resume img {
   margin-top: 2rem;
   width:120vh;
+}
+
+.resume a {
+  display: block;
 }
 
 .pictures {
