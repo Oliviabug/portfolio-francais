@@ -146,6 +146,7 @@ p {
 .pictures {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 5rem;
 }
 
 .vis1 {
@@ -183,6 +184,11 @@ p {
 .vis3 img {
     width: 45%;
     border: solid 1px black;
+}
+
+.graph {
+  width: 50vw;
+  margin-bottom: 3rem;
 }
 
 .explanation p {
